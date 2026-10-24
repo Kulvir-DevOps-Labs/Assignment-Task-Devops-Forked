@@ -1,5 +1,4 @@
-Initial content
-Push the initial commit to the remote  branch.
-Push the initial commit to the remote  branch
-Push the initial commit to the remote  branch
+Initial content!
+
 Push the initial commit to the remote main branch
+
